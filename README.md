@@ -21,4 +21,13 @@ The project contains several folders and files and I have displayed project stru
   - **metric.routes.js**
 - **index.js**
 
-You can use postman to send API requests when the server is running
+You can use postman to send API requests when the server is running.
+
+### POST Request
+![POST Request](https://github.com/Nosherwan-Akram/MetricSumAPI/blob/master/images/POST.png)
+
+### GET Request
+![GET Request](https://github.com/Nosherwan-Akram/MetricSumAPI/blob/master/images/GET.png)
+
+### metric.json
+![metric.json](https://github.com/Nosherwan-Akram/MetricSumAPI/blob/master/images/metric.json.png)
