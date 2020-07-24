@@ -11,7 +11,7 @@ The project contains several folders and files and I have displayed project stru
 
 - images
 - data
-  - **metric.json**
+  - **metric.json** (this file contains where the metric data will be stored and retrieved from)
 - helpers
   - **helpers.js**
 - models
