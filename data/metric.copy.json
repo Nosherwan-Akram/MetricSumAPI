@@ -1,0 +1,9 @@
+[
+  { "metric": "aa", "value": 1, "createdAt": "2020-07-19T08:09:16.901Z" },
+  { "metric": "aa", "value": 4, "createdAt": "2020-07-19T08:25:45.874Z" },
+  { "metric": "az", "value": 4, "createdAt": "2020-07-19T08:25:54.635Z" },
+  { "metric": "az", "value": 4, "createdAt": "2020-07-19T08:46:48.296Z" },
+  { "metric": "az", "value": 4, "createdAt": "2020-07-19T08:47:06.636Z" },
+  { "metric": "az", "value": 4, "createdAt": "2020-07-19T09:07:37.327Z" },
+  { "metric": "az", "value": 4, "createdAt": "2020-07-19T09:10:22.804Z" }
+]
