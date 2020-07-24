@@ -23,6 +23,11 @@ router.post("/:metric", async (request, response) => {
     params: { metric },
   } = request;
   try {
+    if (parseInt(value) != value || !Number.isInteger(parseInt(value))) {
+      return response
+        .status(400)
+        .json({ message: "metric val must be an integer" });
+    }
     await metricModel.insertMetric(metric, parseInt(value));
     return response.status(200).json();
   } catch (error) {

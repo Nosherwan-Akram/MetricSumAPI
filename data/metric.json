@@ -1,5 +1,1 @@
-[
-  { "metric": "as", "value": 6, "createdAt": "2020-07-24T07:19:20.839Z" },
-  { "metric": "as", "value": 6, "createdAt": "2020-07-24T07:19:53.901Z" },
-  { "metric": "as", "value": 6, "createdAt": "2020-07-24T07:44:52.165Z" }
-]
+[{"metric":"as","value":1,"createdAt":"2020-07-24T09:19:08.587Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:19:49.006Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:19:58.484Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:20:21.683Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:20:34.288Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:20:44.311Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:20:50.816Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:21:28.625Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:21:46.462Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:22:26.647Z"},{"metric":"as","value":1,"createdAt":"2020-07-24T09:23:04.083Z"},{"metric":"as","value":null,"createdAt":"2020-07-24T09:23:11.837Z"}]
